@@ -16,14 +16,13 @@ Great project to understand how API's work and how API Quota works.
 ## How to use
 ### A] CHANNEL_ID
 1. For any YouTube channel, go to their landing page (like https://www.youtube.com/@MrBeast)
-2. Press CTRL + U for Windows which should take you to the source page's source code
+2. Press CTRL + U for Windows which should take you to the page's source code
 3. CTRL + F for "?channel" which will take you to the `channel_id`
 4. Plug it into the code where `CHANNEL_ID` is mentioned
 
 ### B] API_KEY
 1. Refer to this super concise blog https://www.slickremix.com/docs/get-api-key-for-youtube/
-2. Get your API_KEY and plug it into the code where mentioned
-
+2. Get your `API_KEY` and plug it into the code where mentioned
 
 ### C] Helpful Links
 1. https://developers.google.com/youtube/v3/docs - to read up on the various channel properties that you can request for
