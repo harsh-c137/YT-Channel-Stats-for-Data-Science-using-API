@@ -14,4 +14,4 @@ Need to update the code so it fetches data for `max_results` number of videos.
 Great project to understand how API's work and how API Quota works.
 
 ## How to use
-1. For any YouTube channel, go to their landing page ([https://www.youtube.com/@MrBeast](like https://www.youtube.com/@MrBeast))
+1. For any YouTube channel, go to their landing page (like https://www.youtube.com/@MrBeast)
