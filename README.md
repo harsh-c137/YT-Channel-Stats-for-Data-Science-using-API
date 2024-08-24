@@ -25,6 +25,6 @@ Great project to understand how API's work and how API Quota works.
 2. Get your `API_KEY` and plug it into the code where mentioned
 
 ### C] Helpful Links
-1. https://developers.google.com/youtube/v3/docs - to read up on the various channel properties that you can request for
+1. [List of Methods](https://developers.google.com/youtube/v3/docs) - to read up on the various channel properties that you can request for
 2. https://console.cloud.google.com/iam-admin/quotas - to check how much quota you have remaining
     - Also check out https://developers.google.com/youtube/v3/determine_quota_cost to know the cost of each method that you'll use
