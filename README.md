@@ -26,5 +26,5 @@ Great project to understand how API's work and how API Quota works.
 
 ### C] Helpful Links
 1. [List of Methods](https://developers.google.com/youtube/v3/docs) - to read up on the various channel properties that you can request for
-2. https://console.cloud.google.com/iam-admin/quotas - to check how much quota you have remaining
-    - Also check out https://developers.google.com/youtube/v3/determine_quota_cost to know the cost of each method that you'll use
+2. [Quota Dashboard](https://console.cloud.google.com/iam-admin/quotas) - to check how much quota you have remaining
+3. [Quota Calculator](https://developers.google.com/youtube/v3/determine_quota_cost) - to know the cost of each method that you'll use
