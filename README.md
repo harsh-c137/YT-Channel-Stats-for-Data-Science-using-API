@@ -33,6 +33,8 @@ Currently, the code only fetches the latest 50 videos leaving you with a DataFra
 2. [Quota Dashboard](https://console.cloud.google.com/iam-admin/quotas) - to check how much quota you have remaining
 3. [Quota Calculator](https://developers.google.com/youtube/v3/determine_quota_cost) - to know the cost of each method that you'll use
 
-Plug in the `CHANNEL_ID` and `API_KEY` and the code is good to go :)
+**Plug in the `CHANNEL_ID` and `API_KEY` and the code is good to go :)**
 
-For reference, this what the DataFrame for Mr Beast's channel looks like
+For reference, this what the DataFrame for Mr Beast's channel looks like:
+![image](https://github.com/user-attachments/assets/8308ec9f-0caa-4ee5-bf93-4bbf5ede9afb)
+
