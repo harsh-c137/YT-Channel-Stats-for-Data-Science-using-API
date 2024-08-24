@@ -29,7 +29,7 @@ Currently, the code only fetches the latest 50 videos leaving you with a DataFra
 2. Get your `API_KEY` and plug it into the code where mentioned
 
 ### C] Helpful Links
-1.[Short and sweet tutorial used for reference](https://www.youtube.com/watch?v=fklHBWow8vE) - by [Strata Scratch](https://www.stratascratch.com/), great data science resource
+1. [Short and sweet tutorial used for reference](https://www.youtube.com/watch?v=fklHBWow8vE) - by [Strata Scratch](https://www.stratascratch.com/), great data science resource
 2. [List of Methods](https://developers.google.com/youtube/v3/docs) - to read up on the various channel properties that you can request for
 3. [Quota Dashboard](https://console.cloud.google.com/iam-admin/quotas) - to check how much quota you have remaining
 4. [Quota Calculator](https://developers.google.com/youtube/v3/determine_quota_cost) - to know the cost of each method that you'll use
