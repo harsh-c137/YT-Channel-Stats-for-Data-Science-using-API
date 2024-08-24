@@ -36,4 +36,5 @@ Currently, the code only fetches the latest 50 videos leaving you with a DataFra
 **Plug in the `CHANNEL_ID` and `API_KEY` and the code is good to go :)**
 
 For reference, this what the DataFrame for Mr Beast's channel looks like:
-<img src="https://github.com/user-attachments/assets/8308ec9f-0caa-4ee5-bf93-4bbf5ede9afb" alt="Example Image" width="200">
+
+<img src="https://github.com/user-attachments/assets/8308ec9f-0caa-4ee5-bf93-4bbf5ede9afb" alt="Example Image" width="750">
